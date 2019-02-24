@@ -1,0 +1,27 @@
+<!-- wp:coblocks/shape-divider {"shapeHeightMobile":45,"shapeHeightTablet":79,"backgroundHeightTablet":10,"customColor":"#e3e3e3","justAdded":false,"coblocks":{"id":"124143814708"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull coblocks-shape-divider-124143814708 mb-0 mt-0" style="color:#e3e3e3" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="height:100px"><svg class="divider--wavy" height="100%" viewbox="0 0 100 10" width="100%" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fill-rule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="height:50px"></div></div>
+<!-- /wp:coblocks/shape-divider -->
+
+<!-- wp:coblocks/hero {"maxWidth":651,"marginTop":0,"marginBottom":0,"marginTopTablet":0,"marginBottomTablet":0,"marginTopMobile":0,"marginBottomMobile":0,"customBackgroundColor":"#e3e3e3","coblocks":{"id":"12414387857"},"noBottomMargin":true,"noTopMargin":true} -->
+<div class="wp-block-coblocks-hero alignfull coblocks-hero-12414387857 mb-0 mt-0"><div class="wp-block-coblocks-hero__inner has-background hero-center-left-align has-padding has-huge-padding" style="background-color:#e3e3e3"><div class="wp-block-coblocks-hero__box" style="max-width:651px"><!-- wp:heading {"placeholder":"Add heading..."} -->
+<h2>Delivering innovative design for amazing people</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"placeholder":"Add content..."} -->
+<p>By applying behavioral science to customer experience, we design engaging digital products used by millions of people. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:coblocks/buttons -->
+<div class="wp-block-coblocks-buttons"><div class="wp-block-coblocks-buttons__inner flex-align-left has-medium-gutter is-stacked-on-mobile"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link">Get in touch</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link" href="">Learn more</a></div>
+<!-- /wp:button --></div></div>
+<!-- /wp:coblocks/buttons --></div></div></div>
+<!-- /wp:coblocks/hero -->
+
+<!-- wp:coblocks/shape-divider {"shapeHeightMobile":46,"shapeHeightTablet":75,"backgroundHeightTablet":10,"verticalFlip":true,"customColor":"#e3e3e3","justAdded":false,"coblocks":{"id":"124143836508"}} -->
+<div class="wp-block-coblocks-shape-divider alignfull coblocks-shape-divider-124143836508 is-vertically-flipped mb-0 mt-0" style="color:#e3e3e3" aria-hidden="true"><div class="wp-block-coblocks-shape-divider__svg-wrapper" style="height:100px"><svg class="divider--wavy" height="100%" viewbox="0 0 100 10" width="100%" xmlns="http://www.w3.org/2000/svg" preserveaspectratio="none"><path d="m42.19.65c2.26-.25 5.15.04 7.55.53 2.36.49 7.09 2.35 10.05 3.57 7.58 3.22 13.37 4.45 19.26 4.97 2.36.21 4.87.35 10.34-.25s10.62-2.56 10.62-2.56v-6.91h-100.01v3.03s7.2 3.26 15.84 3.05c3.92-.07 9.28-.67 13.4-2.24 2.12-.81 5.22-1.82 7.97-2.42 2.72-.63 3.95-.67 4.98-.77z" fill-rule="evenodd" transform="matrix(1 0 0 -1 0 10)"></path></svg></div><div class="wp-block-coblocks-shape-divider__alt-wrapper" style="height:50px"></div></div>
+<!-- /wp:coblocks/shape-divider -->
